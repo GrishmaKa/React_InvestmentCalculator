@@ -1,3 +1,6 @@
+![image](https://github.com/GrishmaKa/React_InvestmentCalculator/assets/121904775/88d3a586-bf4d-466e-bbe8-23b0452aebba)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
