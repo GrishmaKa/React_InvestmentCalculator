@@ -1,4 +1,5 @@
-![image](https://github.com/GrishmaKa/React_InvestmentCalculator/assets/121904775/88d3a586-bf4d-466e-bbe8-23b0452aebba)
+![image](https://github.com/GrishmaKa/React_InvestmentCalculator/assets/121904775/4d38e873-1f2c-434e-8247-600f8d24070f)
+
 
 
 # Getting Started with Create React App
